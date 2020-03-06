@@ -1,0 +1,6 @@
+E:\C#Programs\TheSuperMarioSuperShow\TheSuperMarioSuperShow\bin\Debug\TheSuperMarioSuperShow.exe.config
+E:\C#Programs\TheSuperMarioSuperShow\TheSuperMarioSuperShow\bin\Debug\TheSuperMarioSuperShow.exe
+E:\C#Programs\TheSuperMarioSuperShow\TheSuperMarioSuperShow\bin\Debug\TheSuperMarioSuperShow.pdb
+E:\C#Programs\TheSuperMarioSuperShow\TheSuperMarioSuperShow\obj\Debug\TheSuperMarioSuperShow.csprojAssemblyReference.cache
+E:\C#Programs\TheSuperMarioSuperShow\TheSuperMarioSuperShow\obj\Debug\TheSuperMarioSuperShow.exe
+E:\C#Programs\TheSuperMarioSuperShow\TheSuperMarioSuperShow\obj\Debug\TheSuperMarioSuperShow.pdb
